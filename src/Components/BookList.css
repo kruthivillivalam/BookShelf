@@ -1,0 +1,30 @@
+.list{
+     
+    float:left;
+     display: inline-block;
+     margin: 10px
+}
+
+.img-style {
+   
+    height:170px
+}
+
+.para{
+     border-bottom: '1px solid #dedede';
+     font-size: 10px;
+     margin: 10px
+}
+.drop-down{
+    width: 20px;
+    background-image: url('../images/sort-down.png');
+    background: #e52d2a;
+    cursor: pointer;
+    border-radius: 50%
+  
+    
+}
+
+.drop-down > option{
+    background: white
+}
